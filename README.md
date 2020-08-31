@@ -1,2 +1,3 @@
-# DevOps-Open-Source-Guide
-DevOps using open source softwares and tools
+# DevOps Guide using Open Source software
+
+DevOps Guide using open source softwares and tools
